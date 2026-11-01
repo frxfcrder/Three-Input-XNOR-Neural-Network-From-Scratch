@@ -174,3 +174,8 @@ Sample final metrics:
 - Large updates can saturate the sigmoids and stall learning; the current
   unnormalized gradients make the network sensitive to initialization.
 - `xPredicted` is `[0, 0, 1]`, whose correct target is `0`.
+
+## References
+
+- John C. Shovic and Alan Simpson. *Python All-in-One For Dummies*.
+  3rd ed., Wiley, 2024. ISBN 978-1-394-23615-2.
