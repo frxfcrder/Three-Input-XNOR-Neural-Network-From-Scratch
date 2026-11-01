@@ -1,0 +1,6 @@
+].venv/
+__pycache__/
+*.py[cod]
+Sumsquaredlosslist.csv
+weightsLayer1.txt
+weightsLayer2.txt
